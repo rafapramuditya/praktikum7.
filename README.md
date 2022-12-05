@@ -11,8 +11,7 @@
 ![gambar](gambar/3.png)
 # Tugas Praktikum
 ![gambar](gambar/5.png)
-
-
+```
 # raffa pramuditya
 data = {}
 def tambah():
@@ -97,5 +96,5 @@ while True:
         print("== Pilihan Anda Tidak Tersedia ==")
         print("== Pilihlah Menu Yang Tersedia ==")
         print("<><><><><><><><><><><><><><><><>")
-
+```
 ![gambar](gambar/4.png)
